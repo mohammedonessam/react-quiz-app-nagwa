@@ -1,0 +1,79 @@
+[
+    
+        {
+            "id": 1,
+            "question": "slowly",
+            "pos": "adverb"
+        },
+        {
+            "id": 2,
+            "question": "ride",
+            "pos": "verb"
+        },
+        {
+            "id": 3,
+            "question": "bus",
+            "pos": "noun"
+        },
+        {
+            "id": 4,
+            "question": "commute",
+            "pos": "verb"
+        },
+        {
+            "id": 5,
+            "question": "emissions",
+            "pos": "noun"
+        },
+        {
+            "id": 6,
+            "question": "walk",
+            "pos": "verb"
+        },
+        {
+            "id": 7,
+            "question": "fast",
+            "pos": "adjective"
+        },
+        {
+            "id": 8,
+            "question": "car",
+            "pos": "noun"
+        },
+        {
+            "id": 9,
+            "question": "crowded",
+            "pos": "adjective"
+        },
+        {
+            "id": 10,
+            "question": "arrival",
+            "pos": "noun"
+        },
+        {
+            "id": 11,
+            "question": "emit",
+            "pos": "verb"
+        },
+        {
+            "id": 12,
+            "question": "independent",
+            "pos": "adjective"
+        },
+        {
+            "id": 13,
+            "question": "convenient",
+            "pos": "adjective"
+        },
+        {
+            "id": 14,
+            "question": "lane",
+            "pos": "noun"
+        },
+        {
+            "id": 15,
+            "question": "heavily",
+            "pos": "adverb"
+        }
+    
+    ]
